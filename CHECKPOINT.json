@@ -1,0 +1,17 @@
+{
+  "checkpoint": "24-pose-working-preview",
+  "renderedPoses": 24,
+  "viewsPerPose": 5,
+  "renderedViews": 120,
+  "targetPoses": 600,
+  "status": "Working preview; 600-pose expansion in progress",
+  "unitTests": "5 passed",
+  "javascriptSyntax": "passed",
+  "browserQA": "pending independent verification",
+  "imageDimensions": [
+    600,
+    750
+  ],
+  "downloadFormat": "PNG extracted from lossless WebP atlas",
+  "date": "2026-10-28"
+}

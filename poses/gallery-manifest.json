@@ -1,0 +1,2140 @@
+{
+  "title": "Oruga Pose Studio",
+  "version": "1.0",
+  "license": "CC0-1.0",
+  "angles": [
+    "front",
+    "three-quarter",
+    "side",
+    "back",
+    "high"
+  ],
+  "renderedCount": 24,
+  "catalogCount": 24,
+  "missingCount": 0,
+  "poses": [
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.3,
+          -0.03,
+          0.9
+        ],
+        "R": [
+          0.3,
+          -0.03,
+          0.9
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "stand-neutral",
+      "name": "De pie · neutral",
+      "category": "standing",
+      "tags": [
+        "equilibrio",
+        "frente",
+        "relajado"
+      ],
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 0,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 0
+      }
+    },
+    {
+      "root": [
+        0.08,
+        0,
+        0.98
+      ],
+      "torso_euler": [
+        0,
+        -8,
+        -8
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.25,
+          -0.06,
+          0.86
+        ],
+        "R": [
+          0.36,
+          0.02,
+          0.96
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.2,
+          -0.08,
+          0.1
+        ],
+        "R": [
+          0.18,
+          0.04,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "stand-contrapposto",
+      "name": "Contrapposto",
+      "category": "standing",
+      "tags": [
+        "peso",
+        "asimetría"
+      ],
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 1,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 1
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.22,
+          -0.13,
+          1.05
+        ],
+        "R": [
+          0.22,
+          -0.13,
+          1.05
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          -0.1,
+          1.4
+        ],
+        "R": [
+          1,
+          -0.1,
+          1.4
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "stand-hands-hips",
+      "name": "Manos en la cintura",
+      "category": "standing",
+      "tags": [
+        "cintura",
+        "confianza"
+      ],
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 2,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 2
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          0.16,
+          -0.21,
+          1.3
+        ],
+        "R": [
+          -0.16,
+          -0.15,
+          1.35
+        ]
+      },
+      "elbows": {
+        "L": [
+          -0.4,
+          -0.1,
+          1.05
+        ],
+        "R": [
+          0.4,
+          -0.1,
+          1.1
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "stand-arms-crossed",
+      "name": "Brazos cruzados",
+      "category": "standing",
+      "tags": [
+        "brazos",
+        "cruzados"
+      ],
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 3,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 3
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        -10
+      ],
+      "wrists": {
+        "L": [
+          -0.3,
+          -0.03,
+          0.9
+        ],
+        "R": [
+          0.4,
+          -0.03,
+          1.78
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0.1,
+          1.4
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "stand-wave",
+      "name": "Saludo con una mano",
+      "category": "standing",
+      "tags": [
+        "saludo",
+        "gesto"
+      ],
+      "hand_pose": {
+        "L": "relaxed",
+        "R": "open"
+      },
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 4,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 4
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        8,
+        0
+      ],
+      "head_euler": [
+        -12,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.29,
+          -0.03,
+          1.0
+        ],
+        "R": [
+          0.32,
+          -0.06,
+          1.95
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.7
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "stand-reach",
+      "name": "Alcanzar arriba",
+      "category": "standing",
+      "tags": [
+        "alcanzar",
+        "estirar"
+      ],
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 5,
+      "width": 600,
+      "height": 750,
+      "warnings": [
+        "R wrist clamped 0.024m"
+      ],
+      "thumb": {
+        "sheet": 0,
+        "index": 5
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.76,
+          0,
+          1.42
+        ],
+        "R": [
+          0.76,
+          0,
+          1.42
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "stand-t-pose",
+      "name": "Brazos en cruz",
+      "category": "standing",
+      "tags": [
+        "simetría",
+        "rig"
+      ],
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 6,
+      "width": 600,
+      "height": 750,
+      "warnings": [
+        "L wrist clamped 0.012m",
+        "R wrist clamped 0.012m"
+      ],
+      "thumb": {
+        "sheet": 0,
+        "index": 6
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        12,
+        0,
+        -8
+      ],
+      "wrists": {
+        "L": [
+          0.1,
+          -0.2,
+          1.24
+        ],
+        "R": [
+          0.03,
+          -0.15,
+          1.62
+        ]
+      },
+      "elbows": {
+        "L": [
+          -0.6,
+          0,
+          1.1
+        ],
+        "R": [
+          0.6,
+          -0.1,
+          1.1
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "stand-thinking",
+      "name": "Pensando",
+      "category": "standing",
+      "tags": [
+        "pensar",
+        "mano",
+        "rostro"
+      ],
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 7,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 7
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.49,
+          -0.17,
+          1.43
+        ],
+        "R": [
+          0.49,
+          -0.17,
+          1.43
+        ]
+      },
+      "elbows": {
+        "L": [
+          -0.6,
+          0,
+          1.05
+        ],
+        "R": [
+          0.6,
+          0,
+          1.05
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "upper-shrug",
+      "name": "Encogerse de hombros",
+      "category": "upper-body",
+      "tags": [
+        "gesto",
+        "duda"
+      ],
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 8,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 8
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.28,
+          0,
+          0.9
+        ],
+        "R": [
+          0.27,
+          -0.54,
+          1.45
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          0.6,
+          -0.4,
+          1.4
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "upper-point",
+      "name": "Señalar al frente",
+      "category": "upper-body",
+      "tags": [
+        "señalar",
+        "dirección"
+      ],
+      "hand_pose": {
+        "L": "relaxed",
+        "R": "point"
+      },
+      "sprite": "site-assets/plates/000.webp",
+      "spriteRows": 10,
+      "spriteRow": 9,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 9
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.06,
+          0.07,
+          1.68
+        ],
+        "R": [
+          0.06,
+          0.07,
+          1.68
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.6
+        ],
+        "R": [
+          1,
+          0,
+          1.6
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "upper-hands-head",
+      "name": "Manos detrás de la cabeza",
+      "category": "upper-body",
+      "tags": [
+        "cabeza",
+        "abierto"
+      ],
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 0,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 10
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        1
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.045,
+          -0.21,
+          1.39
+        ],
+        "R": [
+          0.045,
+          -0.21,
+          1.39
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.15
+        ],
+        "R": [
+          1,
+          0,
+          1.15
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          0,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "upper-prayer",
+      "name": "Palmas juntas",
+      "category": "upper-body",
+      "tags": [
+        "manos",
+        "centrado"
+      ],
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 1,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 11
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.58
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.16,
+          -0.28,
+          0.64
+        ],
+        "R": [
+          0.16,
+          -0.28,
+          0.64
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.16,
+          -0.45,
+          0.1
+        ],
+        "R": [
+          0.16,
+          -0.45,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "stool",
+      "id": "sit-upright",
+      "name": "Sentado · erguido",
+      "category": "seated",
+      "tags": [
+        "silla",
+        "relajado"
+      ],
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 2,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 12
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.58
+      ],
+      "torso_euler": [
+        24,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.13,
+          -0.51,
+          0.53
+        ],
+        "R": [
+          0.13,
+          -0.51,
+          0.53
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.22,
+          -0.45,
+          0.1
+        ],
+        "R": [
+          0.22,
+          -0.45,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "stool",
+      "id": "sit-lean",
+      "name": "Sentado · inclinado",
+      "category": "seated",
+      "tags": [
+        "silla",
+        "apoyo"
+      ],
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 3,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 13
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.58
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.12,
+          -0.24,
+          0.63
+        ],
+        "R": [
+          0.12,
+          -0.24,
+          0.63
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          0.07,
+          -0.48,
+          0.1
+        ],
+        "R": [
+          -0.07,
+          -0.39,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.4,
+          -1,
+          0.6
+        ],
+        "R": [
+          0.4,
+          -1,
+          0.6
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "stool",
+      "id": "sit-cross-ankles",
+      "name": "Sentado · tobillos cruzados",
+      "category": "seated",
+      "tags": [
+        "silla",
+        "cruzado"
+      ],
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 4,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 14
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.58
+      ],
+      "torso_euler": [
+        0,
+        0,
+        25
+      ],
+      "head_euler": [
+        0,
+        0,
+        20
+      ],
+      "wrists": {
+        "L": [
+          -0.22,
+          -0.3,
+          0.62
+        ],
+        "R": [
+          0.27,
+          0.06,
+          0.56
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.16,
+          -0.45,
+          0.1
+        ],
+        "R": [
+          0.16,
+          -0.45,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "stool",
+      "id": "sit-turn",
+      "name": "Sentado · giro",
+      "category": "seated",
+      "tags": [
+        "silla",
+        "giro"
+      ],
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 5,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 15
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.94
+      ],
+      "torso_euler": [
+        5,
+        0,
+        -7
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.26,
+          -0.28,
+          1.0
+        ],
+        "R": [
+          0.28,
+          0.23,
+          1.0
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.13,
+          -0.32,
+          0.1
+        ],
+        "R": [
+          0.13,
+          0.32,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "action-walk",
+      "name": "Caminar · paso abierto",
+      "category": "action",
+      "tags": [
+        "caminar",
+        "paso"
+      ],
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 6,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 16
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.95
+      ],
+      "torso_euler": [
+        18,
+        0,
+        8
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.26,
+          -0.41,
+          1.33
+        ],
+        "R": [
+          0.3,
+          0.13,
+          1.1
+        ]
+      },
+      "elbows": {
+        "L": [
+          -0.6,
+          -0.05,
+          1.1
+        ],
+        "R": [
+          0.6,
+          0.4,
+          1.3
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.12,
+          -0.35,
+          0.14
+        ],
+        "R": [
+          0.13,
+          0.39,
+          0.38
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.8
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.4
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "action-run",
+      "name": "Correr · impulso",
+      "category": "action",
+      "tags": [
+        "correr",
+        "impulso"
+      ],
+      "foot_euler": {
+        "L": [
+          -8,
+          0,
+          -5
+        ],
+        "R": [
+          55,
+          0,
+          5
+        ]
+      },
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 7,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 17
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.91
+      ],
+      "torso_euler": [
+        8,
+        0,
+        -15
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.12,
+          -0.37,
+          1.53
+        ],
+        "R": [
+          0.17,
+          -0.24,
+          1.52
+        ]
+      },
+      "elbows": {
+        "L": [
+          -0.5,
+          -0.1,
+          1.0
+        ],
+        "R": [
+          0.5,
+          0,
+          1.0
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.23,
+          -0.25,
+          0.1
+        ],
+        "R": [
+          0.23,
+          0.25,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "action-box-guard",
+      "name": "Boxeo · guardia",
+      "category": "action",
+      "tags": [
+        "boxeo",
+        "guardia"
+      ],
+      "hand_pose": {
+        "L": "fist",
+        "R": "fist"
+      },
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 8,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 18
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.91
+      ],
+      "torso_euler": [
+        8,
+        0,
+        -18
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.17,
+          -0.52,
+          1.34
+        ],
+        "R": [
+          0.17,
+          -0.24,
+          1.5
+        ]
+      },
+      "elbows": {
+        "L": [
+          -0.5,
+          -0.4,
+          1.2
+        ],
+        "R": [
+          0.5,
+          0,
+          1.0
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.23,
+          -0.25,
+          0.1
+        ],
+        "R": [
+          0.23,
+          0.25,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "action-punch",
+      "name": "Boxeo · golpe recto",
+      "category": "action",
+      "tags": [
+        "boxeo",
+        "golpe"
+      ],
+      "hand_pose": {
+        "L": "fist",
+        "R": "fist"
+      },
+      "sprite": "site-assets/plates/001.webp",
+      "spriteRows": 10,
+      "spriteRow": 9,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 19
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.71
+      ],
+      "torso_euler": [
+        6,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.34,
+          -0.3,
+          0.73
+        ],
+        "R": [
+          0.34,
+          0.15,
+          0.76
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.17,
+          -0.56,
+          0.1
+        ],
+        "R": [
+          0.17,
+          0.53,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.6
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.3
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "action-lunge",
+      "name": "Zancada profunda",
+      "category": "action",
+      "tags": [
+        "piernas",
+        "zancada"
+      ],
+      "sprite": "site-assets/plates/002.webp",
+      "spriteRows": 10,
+      "spriteRow": 0,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 20
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.62
+      ],
+      "torso_euler": [
+        22,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.18,
+          -0.62,
+          1.1
+        ],
+        "R": [
+          0.18,
+          -0.62,
+          1.1
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.29,
+          -0.1,
+          0.1
+        ],
+        "R": [
+          0.29,
+          -0.1,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.65,
+          -1,
+          0.6
+        ],
+        "R": [
+          0.65,
+          -1,
+          0.6
+        ]
+      },
+      "foot_yaw": {
+        "L": -20,
+        "R": 20
+      },
+      "support": "none",
+      "id": "action-squat",
+      "name": "Sentadilla",
+      "category": "action",
+      "tags": [
+        "piernas",
+        "sentadilla"
+      ],
+      "sprite": "site-assets/plates/002.webp",
+      "spriteRows": 10,
+      "spriteRow": 1,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 21
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.99
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.7,
+          -0.08,
+          1.4
+        ],
+        "R": [
+          0.7,
+          -0.08,
+          1.4
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.2
+        ],
+        "R": [
+          1,
+          0,
+          1.2
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.12,
+          0,
+          0.1
+        ],
+        "R": [
+          0.11,
+          -0.4,
+          0.59
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.6,
+          -1,
+          1.0
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "action-balance",
+      "name": "Equilibrio en una pierna",
+      "category": "action",
+      "tags": [
+        "equilibrio",
+        "pierna"
+      ],
+      "sprite": "site-assets/plates/002.webp",
+      "spriteRows": 10,
+      "spriteRow": 2,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 22
+      }
+    },
+    {
+      "root": [
+        0,
+        0,
+        0.99
+      ],
+      "torso_euler": [
+        0,
+        0,
+        0
+      ],
+      "head_euler": [
+        0,
+        0,
+        0
+      ],
+      "wrists": {
+        "L": [
+          -0.48,
+          -0.06,
+          1.87
+        ],
+        "R": [
+          0.48,
+          -0.06,
+          1.87
+        ]
+      },
+      "elbows": {
+        "L": [
+          -1,
+          0,
+          1.7
+        ],
+        "R": [
+          1,
+          0,
+          1.7
+        ]
+      },
+      "ankles": {
+        "L": [
+          -0.22,
+          0,
+          0.1
+        ],
+        "R": [
+          0.22,
+          0,
+          0.1
+        ]
+      },
+      "knees": {
+        "L": [
+          -0.2,
+          -1,
+          0.5
+        ],
+        "R": [
+          0.2,
+          -1,
+          0.5
+        ]
+      },
+      "foot_yaw": {
+        "L": -5,
+        "R": 5
+      },
+      "support": "none",
+      "id": "action-celebrate",
+      "name": "Celebración",
+      "category": "action",
+      "tags": [
+        "alegría",
+        "brazos"
+      ],
+      "sprite": "site-assets/plates/002.webp",
+      "spriteRows": 10,
+      "spriteRow": 3,
+      "width": 600,
+      "height": 750,
+      "warnings": [],
+      "thumb": {
+        "sheet": 0,
+        "index": 23
+      }
+    }
+  ]
+}
